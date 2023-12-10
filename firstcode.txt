@@ -1,0 +1,3 @@
+Hi this is first file for learning purpose and codes will be saved here.
+git commit -m"change"
+
