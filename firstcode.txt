@@ -1,3 +1,4 @@
-Hi this is first file for learning purpose and codes will be saved here.
+ this is first file for learning purpose and codes will be saved here.
+ adding this second line to track chaneges done in this file which will show in status command.
 git commit -m"change"
 
